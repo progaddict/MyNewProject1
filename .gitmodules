@@ -14,3 +14,23 @@
 	path = languagescommon
 	url = https://github.com/EmbeddedMontiArc/languagescommon.git
 	branch = ryndin
+[submodule "EMAM2Cpp"]
+	path = EMAM2Cpp
+	url = https://github.com/EmbeddedMontiArc/EMAM2Cpp.git
+	branch = ryndin
+[submodule "EmbeddedMontiArcBehaviour"]
+	path = EmbeddedMontiArcBehaviour
+	url = https://github.com/EmbeddedMontiArc/EmbeddedMontiArcBehaviour.git
+	branch = ryndin
+[submodule "EmbeddedMontiArcMath"]
+	path = EmbeddedMontiArcMath
+	url = https://github.com/EmbeddedMontiArc/EmbeddedMontiArcMath.git
+	branch = ryndin
+[submodule "EMA2Kotlin"]
+	path = EMA2Kotlin
+	url = https://github.com/EmbeddedMontiArc/EMA2Kotlin.git
+	branch = ryndin
+[submodule "MontiMath"]
+	path = MontiMath
+	url = https://github.com/EmbeddedMontiArc/MontiMath.git
+	branch = ryndin
