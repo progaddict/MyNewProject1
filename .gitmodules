@@ -1,0 +1,16 @@
+[submodule "EmbeddedMontiArc"]
+	path = EmbeddedMontiArc
+	url = https://github.com/EmbeddedMontiArc/EmbeddedMontiArc.git
+	branch = ryndin
+[submodule "NumberUnit"]
+	path = NumberUnit
+	url = https://github.com/EmbeddedMontiArc/NumberUnit.git
+	branch = ryndin
+[submodule "Struct"]
+	path = Struct
+	url = https://github.com/EmbeddedMontiArc/Struct.git
+	branch = ryndin
+[submodule "languagescommon"]
+	path = languagescommon
+	url = https://github.com/EmbeddedMontiArc/languagescommon.git
+	branch = ryndin
