@@ -12,7 +12,6 @@
         <module>Struct</module>
         <module>EmbeddedMontiArc</module>
         <module>EMAM2Cpp</module>
-        <module>EMA2Kotlin</module>
         <module>EmbeddedMontiArcBehaviour</module>
         <module>EmbeddedMontiArcMath</module>
         <module>MontiMath</module>
