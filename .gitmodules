@@ -34,3 +34,7 @@
 	path = MontiMath
 	url = https://github.com/EmbeddedMontiArc/MontiMath.git
 	branch = ryndin
+[submodule "example-autopilot-ema"]
+	path = example-autopilot-ema
+	url = https://github.com/MontiSim/example-autopilot-ema.git
+	branch = ryndin
