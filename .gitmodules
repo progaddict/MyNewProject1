@@ -1,36 +1,36 @@
 [submodule "EmbeddedMontiArc"]
 	path = EmbeddedMontiArc
 	url = https://github.com/EmbeddedMontiArc/EmbeddedMontiArc.git
-	branch = ryndin
+	branch = master
 [submodule "NumberUnit"]
 	path = NumberUnit
 	url = https://github.com/EmbeddedMontiArc/NumberUnit.git
-	branch = ryndin
+	branch = master
 [submodule "Struct"]
 	path = Struct
 	url = https://github.com/EmbeddedMontiArc/Struct.git
-	branch = ryndin
+	branch = master
 [submodule "languagescommon"]
 	path = languagescommon
 	url = https://github.com/EmbeddedMontiArc/languagescommon.git
-	branch = ryndin
+	branch = master
 [submodule "EMAM2Cpp"]
 	path = EMAM2Cpp
 	url = https://github.com/EmbeddedMontiArc/EMAM2Cpp.git
-	branch = ryndin
+	branch = master
 [submodule "EmbeddedMontiArcBehaviour"]
 	path = EmbeddedMontiArcBehaviour
 	url = https://github.com/EmbeddedMontiArc/EmbeddedMontiArcBehaviour.git
-	branch = ryndin
+	branch = master
 [submodule "EmbeddedMontiArcMath"]
 	path = EmbeddedMontiArcMath
 	url = https://github.com/EmbeddedMontiArc/EmbeddedMontiArcMath.git
-	branch = ryndin
+	branch = master
 [submodule "EMA2Kotlin"]
 	path = EMA2Kotlin
 	url = https://github.com/EmbeddedMontiArc/EMA2Kotlin.git
-	branch = ryndin
+	branch = master
 [submodule "MontiMath"]
 	path = MontiMath
 	url = https://github.com/EmbeddedMontiArc/MontiMath.git
-	branch = ryndin
+	branch = master
