@@ -38,3 +38,23 @@
 	path = example-autopilot-ema
 	url = https://github.com/MontiSim/example-autopilot-ema.git
 	branch = ryndin
+[submodule "autopilot-integration"]
+	path = autopilot-integration
+	url = https://github.com/MontiSim/autopilot-integration.git
+	branch = ryndin
+[submodule "commons"]
+	path = commons
+	url = https://github.com/MontiSim/commons.git
+	branch = ryndin
+[submodule "controller"]
+	path = controller
+	url = https://github.com/MontiSim/controller.git
+	branch = ryndin
+[submodule "visualization"]
+	path = visualization
+	url = https://github.com/MontiSim/visualization.git
+	branch = ryndin
+[submodule "simulation"]
+	path = simulation
+	url = https://github.com/MontiSim/simulation.git
+	branch = ryndin
