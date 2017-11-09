@@ -23,5 +23,6 @@
         <module>controller</module>
         <module>visualization</module>
         <module>simulation</module>
+        <module>example-autopilot-emam</module>
     </modules>
 </project>

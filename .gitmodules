@@ -58,3 +58,7 @@
 	path = simulation
 	url = https://github.com/MontiSim/simulation.git
 	branch = ryndin
+[submodule "example-autopilot-emam"]
+	path = example-autopilot-emam
+	url = https://github.com/MontiSim/example-autopilot-emam
+	branch = ryndin
