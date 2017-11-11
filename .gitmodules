@@ -34,3 +34,31 @@
 	path = MontiMath
 	url = https://github.com/EmbeddedMontiArc/MontiMath.git
 	branch = master
+[submodule "example-autopilot-ema"]
+	path = example-autopilot-ema
+	url = https://github.com/MontiSim/example-autopilot-ema.git
+	branch = master
+[submodule "visualization"]
+	path = visualization
+	url = https://github.com/MontiSim/visualization.git
+	branch = master
+[submodule "simulation"]
+	path = simulation
+	url = https://github.com/MontiSim/simulation.git
+	branch = master
+[submodule "controller"]
+	path = controller
+	url = https://github.com/MontiSim/controller.git
+	branch = master
+[submodule "commons"]
+	path = commons
+	url = https://github.com/MontiSim/commons.git
+	branch = master
+[submodule "autopilot-integration"]
+	path = autopilot-integration
+	url = https://github.com/MontiSim/autopilot-integration.git
+	branch = master
+[submodule "example-autopilot-emam"]
+	path = example-autopilot-emam
+	url = https://github.com/MontiSim/example-autopilot-emam.git
+	branch = master

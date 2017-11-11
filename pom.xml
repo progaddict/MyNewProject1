@@ -15,5 +15,6 @@
         <module>EmbeddedMontiArcBehaviour</module>
         <module>EmbeddedMontiArcMath</module>
         <module>MontiMath</module>
+        <module>EMA2Kotlin</module>
     </modules>
 </project>
