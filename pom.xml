@@ -24,5 +24,6 @@
         <module>visualization</module>
         <module>simulation</module>
         <module>example-autopilot-emam</module>
+        <module>Enum</module>
     </modules>
 </project>

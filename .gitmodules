@@ -62,3 +62,7 @@
 	path = example-autopilot-emam
 	url = https://github.com/MontiSim/example-autopilot-emam
 	branch = ryndin
+[submodule "Enum"]
+	path = Enum
+	url = https://github.com/EmbeddedMontiArc/Enum.git
+	branch = ryndin
