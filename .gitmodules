@@ -66,3 +66,7 @@
 	path = Enum
 	url = https://github.com/EmbeddedMontiArc/Enum.git
 	branch = ryndin
+[submodule "Tagging"]
+	path = Tagging
+	url = https://github.com/EmbeddedMontiArc/Tagging.git
+	branch = ryndin

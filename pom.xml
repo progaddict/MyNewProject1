@@ -25,5 +25,6 @@
         <module>simulation</module>
         <module>example-autopilot-emam</module>
         <module>Enum</module>
+        <module>Tagging</module>
     </modules>
 </project>
