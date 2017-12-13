@@ -70,3 +70,7 @@
 	path = Tagging
 	url = https://github.com/EmbeddedMontiArc/Tagging.git
 	branch = ryndin
+[submodule "application"]
+	path = application
+	url = https://github.com/MontiSim/application.git
+	branch = ryndin

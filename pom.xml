@@ -26,5 +26,6 @@
         <module>example-autopilot-emam</module>
         <module>Enum</module>
         <module>Tagging</module>
+        <module>application</module>
     </modules>
 </project>
